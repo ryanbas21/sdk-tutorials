@@ -1,4 +1,4 @@
 ---
 type: chapter
-title: Introduction
+title: Write an embedded login app
 ---
